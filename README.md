@@ -1,4 +1,4 @@
-# new_todo
+# todoapp
 
 ## Project setup
 ```
